@@ -1,0 +1,15 @@
+/media/be7ro/private/dotnet/pub-sub/wallet/bin/Debug/net7.0/wallet
+/media/be7ro/private/dotnet/pub-sub/wallet/bin/Debug/net7.0/wallet.deps.json
+/media/be7ro/private/dotnet/pub-sub/wallet/bin/Debug/net7.0/wallet.runtimeconfig.json
+/media/be7ro/private/dotnet/pub-sub/wallet/bin/Debug/net7.0/wallet.dll
+/media/be7ro/private/dotnet/pub-sub/wallet/bin/Debug/net7.0/wallet.pdb
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.csproj.AssemblyReference.cache
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.GeneratedMSBuildEditorConfig.editorconfig
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.AssemblyInfoInputs.cache
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.AssemblyInfo.cs
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.csproj.CoreCompileInputs.cache
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.dll
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/refint/wallet.dll
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.pdb
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/wallet.genruntimeconfig.cache
+/media/be7ro/private/dotnet/pub-sub/wallet/obj/Debug/net7.0/ref/wallet.dll
